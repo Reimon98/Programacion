@@ -1,0 +1,6 @@
+@startuml
+!include src/ProyectoInversa/Biblioteca.java
+!include src/ProyectoInversa/Libro.java
+!include src/ProyectoInversa/Prestamo.java
+!include src/ProyectoInversa/Usuario.java
+@enduml
